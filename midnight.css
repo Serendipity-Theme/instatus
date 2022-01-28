@@ -1,0 +1,19 @@
+body {
+    background-color: #151726;
+}
+
+div, h2, .text-gray-900 {
+    color: #DEE0EF;
+}
+
+.text-black {
+    color: #5BA2D0;
+}
+
+.bg-gray-100 {
+    background-color: #232534;
+}
+
+.bg-gray-900 {
+    background-color: #232534;
+}
